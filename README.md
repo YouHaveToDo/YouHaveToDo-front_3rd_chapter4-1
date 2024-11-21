@@ -2,7 +2,7 @@
 
 ### 배포 파이프라인
 
-<img width="308" alt="화면 캡처 2024-11-19 225337" src="https://github.com/YouHaveToDo/front_3rd_chapter4-1/blob/main/aws.jpg">
+<img width="308" alt="화면 캡처 2024-11-19 225337" src="https://github.com/YouHaveToDo/YouHaveToDo-front_3rd_chapter4-1/blob/main/aws.jpg?raw=true">
 
 ### 개요
 
